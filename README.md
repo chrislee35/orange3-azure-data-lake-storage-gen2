@@ -2,7 +2,7 @@
 
 Widgets to load and save tables to/from Azure Data Lake Storage (ADLS) Gen 2
 
-Within the Add-ons installer, click on "Add more..." and type in Orange3-Sqlite3
+Within the Add-ons installer, click on "Add more..." and type in Orange3-Azure-Data-Lake-Storage-Gen2
 
 ## Example Use
 
