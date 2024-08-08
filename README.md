@@ -4,8 +4,8 @@ Widgets to load and save tables to/from Azure Data Lake Storage (ADLS) Gen 2
 
 Within the Add-ons installer, click on "Add more..." and type in Orange3-Sqlite3
 
-## Setting the Target and Creating Categorical Variables
+## Example Use
 
-You can set the target using the Select Columns widget and make a Categorical variable using Edit Domain.
+Example Orange3 Workflow loading iris.tab from ADLS, sampling 50 instances, and then uploading to ADLS as iris.pckl
 
-![Example Orange3 Workflow using SQLite3 and setting the target and categorical variable](https://github.com/chrislee35/orange3-sqlite3/blob/main/img/example.png?raw=true)
+![Example Orange3 Workflow loading iris.tab from ADLS, sampling 50 instances, and then uploading to ADLS as iris.pckl](https://github.com/chrislee35/orange3-azure-data-lake-storage-gen2/blob/main/img/example.png?raw=true)
